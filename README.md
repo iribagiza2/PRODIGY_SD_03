@@ -1,5 +1,3 @@
-# PRODIGY_SD_03
-
 #Contact Manager
 
 This is a python program that allows users to store and manage their contact information.
